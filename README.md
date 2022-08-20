@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/senuradp" target="_blank"><img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" height="200" width="400"></a></p>
+<p align="center"><a href="https://github.com/senuradp" target="_blank"><img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" height="200" width="200"></a></p>
 
 
 # A flutter CRUD operations application
